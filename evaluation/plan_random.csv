@@ -1,0 +1,9 @@
+dataset,prefixes,suffixes
+act25.csv,6;7;8;9,1;2;3;4;5
+BPIC2011.csv,10;15;20,1;2;3;4;5;6;7;8;9;10
+BPIC2012.csv,5;10;15;20,1;2;3;4;5;6;7;8;9;10
+env_permit.csv,5;10;15;20;25,1;2;3;4;5;6;7;8;9;10
+hospital.csv,4;5;7;9;11,1;2;3;4;5;6;7;8;9;10
+receipt_phase_env_permit.csv,3;4,1;2;3
+traf.csv,3;4,1;2;3
+venice.csv,3;4,1;2;3
